@@ -1,6 +1,5 @@
 #claypot
-
-######h6 options payoff workbench
+######options payoff workbench
 
 ###Framework
 
